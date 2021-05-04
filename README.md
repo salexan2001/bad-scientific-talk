@@ -22,6 +22,7 @@
 
 ### Equations
 * Have overly complicated equations in your slides. Claim that you can't explain these overly complicated equations, but then start explaining them any way.
+  Leave out the boring stuff, like explanations of variable names.
 * Be sure that the symbols in the equations are never explained. You want your audience to have questions after the talk after all!
 * If your equations do not span the entire slide end-to-end, it is not impressing enough.
 
@@ -43,14 +44,6 @@
 
 Acronyms serve two very important purposes: first, you can heavily compress your slides saving valuable space for even more figures and text.
 Second, they create that unique in-group feeling as soon as people from the audience recognize acronyms only known by experts. People not familiar with some acronyms will enjoy the fun guessing what is meant.
-Don't waste your precious time explaining the acronyms, as it would spoil the fun anyway.
-
-You will immediately recognize the positive effect of lots of acronyms on the atmosphere during the talk.
-
-### Acronyms
-
-Acronyms serve two very important purposes: Firstly, you can heavily compress your slides saving valuable space for even more figures and text.
-Secondly they create that unique in-group feeling as soon as people from the audience recognize acronyms only known by experts. People not familiar with some acronyms will enjoy the fun guessing what is meant.
 Don't waste your precious time explaining the acronyms, as it would spoil the fun anyway.
 
 You will immediately recognize the positive effect of lots of acronyms on the atmosphere during the talk.
